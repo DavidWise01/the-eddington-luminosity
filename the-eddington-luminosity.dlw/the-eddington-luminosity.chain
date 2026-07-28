@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1851
+slug  : the-eddington-luminosity
+seal  : 31ca37c4b5bfa6c0003284d9bfcef5e455160807036700bf325564fda727b55e
+prev  : 8f2c2294c17c3e71a1c88e9b80d59ce1aa9356863234bf1cfd65e5d4582c8203
+link  : 17c96d0e74a6335e625fc69f3c7dd549b719843469c12a35c2fe0c289ce462c2
+head  : 17c96d0e74a6335e625fc69f3c7dd549b719843469c12a35c2fe0c289ce462c2
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
